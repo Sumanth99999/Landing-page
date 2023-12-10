@@ -4,11 +4,11 @@ This product landing page showcases the Magic Mouse, an advanced wireless mouse 
 
 📝 Table of Contents
 
-Home
-Features
-For Coders
-For Gamers
-Order Now
+• Home
+• Features
+• For Coders
+• For Gamers
+• Order Now
  
 🔥 Upcoming Features
 
