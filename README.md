@@ -14,10 +14,5 @@ To use the project, you can simply clone the repository and run the web app usin
 
 Feel free to explore the project and provide feedback. This internship project was an opportunity for me to apply and demonstrate my web development skills in a practical, real-world setting.
  
-🔥 Upcoming Features
 
-Customizable AI settings for optimal precision and speed.
-Advanced gaming features for professional players.
-Increased durability and improved ergonomics for a better user experience.
-
-![Alt text](<Screenshot (41).png>)
+![Alt text](image.png)
